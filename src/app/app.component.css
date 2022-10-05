@@ -1,0 +1,7 @@
+*{
+    font-family: 'Xanh Mono', monospace;
+}
+header h1, p {
+    text-align: center;
+    color: #4A4C4D;
+}
